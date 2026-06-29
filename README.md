@@ -1,16 +1,23 @@
-## Hi there 👋
+Juliany Cristinne Batista Cavalcante
 
-<!--
-**julianycavalcante/julianycavalcante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) na Cruzeiro do Sul Virtual, em transição para a área de TI. Atualmente trabalho na Viação Cometa em uma função administrativa, enquanto estudo programação e me preparo para um estágio na área.
 
-Here are some ideas to get you started:
+O que tenho estudado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Lógica de programação e Python (estruturas de dados, funções, boas práticas como PEP 8)
+Modelagem de sistemas: UML (casos de uso, classes, sequência, atividade)
+Prototipação e wireframes
+Testes unitários
+
+
+Projetos neste perfil
+
+Aqui você encontra exercícios e projetos desenvolvidos durante a faculdade, incluindo sistemas de gerenciamento, scripts utilitários e jogos simples em Python. São projetos de aprendizado, então estão em constante evolução conforme avanço no curso.
+
+Contato
+
+LinkedIn
+
+
+Em busca de oportunidades de estágio em TI.
